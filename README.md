@@ -2,13 +2,13 @@
 ## Not an official repo for Legacy Launcher, may change over time.
 ### Check out [Legacy Launcher](https://llaun.ch/en) for more info.
 ---
-##Introduction:
+## Introduction:
 
 Legacy Launcher is a simple, light and fast Minecraft Launcher. But, the problem many (or some) people may face is that it is not available on Arch Linux, e.g. in the AUR, nor in the official repos. Luckily, this repo exists as a measure to alleviate those problems, at least to a certain degree. Now, this repo provides the package file to install onto Arch Linux using the `pacman` package manager. Alternatively, the steps required to make the package oneselves will also be mentioned in this README.md file.
 
 ---
 
-##Installation prerequisites:
+## Installation prerequisites:
 
 1. Install Java: Open the terminal and enter `sudo pacman -S jre-openjdk`. Select any option when given so; for example, if the default is 1, then press Enter. When said to proceed with the installation, press `Y`. When the installation is finished, follow any of the two steps given below:
 
@@ -38,4 +38,5 @@ Run `yay -S debtap` on your terminal and wait for the download to finish.
 ---
 
 It ***should*** work. Now, go to the applications menu or launcher and search for "Legacy Launcher", or type `legacylauncher` in the terminal to launch the game. Enjoy!
+
 P.S: Sorry for the grammar.
