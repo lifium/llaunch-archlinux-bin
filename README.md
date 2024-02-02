@@ -8,7 +8,11 @@ Legacy Launcher is a simple, light and fast Minecraft Launcher. But, the problem
 
 ---
 
-##Installation:
+##Installation prerequisites:
+
+1. Install Java: Open the terminal and enter `sudo pacman -S jre-openjdk`. Select any option when given so for example if the default is 1, then press Enter. When said to proceed with the installation, press `Y`. When the installation is finished, follow any of the two steps given below:
+
+## a) Installation:
 
 1. Open any terminal emulator such as `xfce4-terminal`, `Alacritty`, `termite`, `terminator` or just use the `tty` if that's the only option or if ssh'd into a machine.
 
@@ -20,7 +24,7 @@ Legacy Launcher is a simple, light and fast Minecraft Launcher. But, the problem
 
 ---
 
-## D.I.Y method:
+## b) D.I.Y method:
 
 1. Install debtap using `yay`, `paru` or `pacaur`. In this case, `yay` will be used.
 Run `yay -S debtap` on your terminal and wait for the download to finish.
@@ -30,6 +34,8 @@ Run `yay -S debtap` on your terminal and wait for the download to finish.
 3. To make the package, cd into the directory in which you have downloaded the `TL_legacy.deb` file and run `sudo debtap TL_legacy.deb` and wait for the recompilation to finish
 
 4. Install the package: `sudo pacman -U legacylauncher-1.0-1-any.pkg.tar.zst`
+
+---
 
 It ***should*** work. Now, go to the applications menu or launcher and search for "Legacy Launcher", or type `legacylauncher` in the terminal to launch the game. Enjoy!
 
