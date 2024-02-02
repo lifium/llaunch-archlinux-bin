@@ -10,7 +10,7 @@ Legacy Launcher is a simple, light and fast Minecraft Launcher. But, the problem
 
 ##Installation prerequisites:
 
-1. Install Java: Open the terminal and enter `sudo pacman -S jre-openjdk`. Select any option when given so for example if the default is 1, then press Enter. When said to proceed with the installation, press `Y`. When the installation is finished, follow any of the two steps given below:
+1. Install Java: Open the terminal and enter `sudo pacman -S jre-openjdk`. Select any option when given so; for example, if the default is 1, then press Enter. When said to proceed with the installation, press `Y`. When the installation is finished, follow any of the two steps given below:
 
 ## a) Installation:
 
@@ -38,4 +38,4 @@ Run `yay -S debtap` on your terminal and wait for the download to finish.
 ---
 
 It ***should*** work. Now, go to the applications menu or launcher and search for "Legacy Launcher", or type `legacylauncher` in the terminal to launch the game. Enjoy!
-
+P.S: Sorry for the grammar.
