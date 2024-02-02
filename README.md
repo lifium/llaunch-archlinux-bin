@@ -25,7 +25,7 @@ Legacy Launcher is a simple, light and fast Minecraft Launcher. But, the problem
 1. Install debtap using `yay`, `paru` or `pacaur`. In this case, `yay` will be used.
 Run `yay -S debtap` on your terminal and wait for the download to finish.
 
-2. Download the `TL_legacy.deb` file from the [Legacy Launcher website.](https://llaun.ch/ubuntu)
+2. Download the `TL_legacy.deb` file from [here.](https://llaun.ch/ubuntu)
 
 3. To make the package, cd into the directory in which you have downloaded the `TL_legacy.deb` file and run `sudo debtap TL_legacy.deb` and wait for the recompilation to finish
 
